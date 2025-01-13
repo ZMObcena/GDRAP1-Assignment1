@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T09:05:39.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
