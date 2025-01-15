@@ -1,2 +1,4 @@
 ﻿  main.cpp
+D:\AAASchool\4th Year\Term 2\GDGRAP1\Le Code\GDGRAP\main.cpp(128,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   GDGRAP.vcxproj -> D:\AAASchool\4th Year\Term 2\GDGRAP1\Le Code\GDGRAP\x64\Debug\GDGRAP.exe
