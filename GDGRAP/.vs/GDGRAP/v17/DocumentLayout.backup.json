@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\",
+  "WorkspaceRootPath": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|solutionrelative:Shaders\\sample.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|solutionrelative:Shaders\\sample.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{660D9862-4820-44CE-83F9-2B0242A0EE90}|GDGRAP.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sample.frag",
+              "DocumentMoniker": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.frag",
+              "RelativeDocumentMoniker": "Shaders\\sample.frag",
+              "ToolTip": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.frag",
+              "RelativeToolTip": "Shaders\\sample.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T01:23:14.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sample.vert",
+              "DocumentMoniker": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.vert",
+              "RelativeDocumentMoniker": "Shaders\\sample.vert",
+              "ToolTip": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\Shaders\\sample.vert",
+              "RelativeToolTip": "Shaders\\sample.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T01:22:50.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\glad.c",
+              "RelativeDocumentMoniker": "glad.c",
+              "ToolTip": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\glad.c",
+              "RelativeToolTip": "glad.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T14:42:43.699Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\Le Code\\GDGRAP\\main.cpp",
+              "ToolTip": "C:\\Users\\zmobc\\OneDrive\\Documents\\AAASchool\\4th Year\\Term 2\\GDGRAP1\\GDRAP1-Assignment1\\GDGRAP\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwH8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:05:39.239Z",
               "EditorCaption": ""
